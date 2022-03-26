@@ -1,4 +1,1 @@
-touch up_to_date
-#this is for creating file up_to_date
-vi up_to_date
-#this is for editing inside the file
+["git pull"]
